@@ -1,0 +1,1 @@
+421624201154.dkr.ecr.us-east-1.amazonaws.com/tf2-object-detection:20230730191851
